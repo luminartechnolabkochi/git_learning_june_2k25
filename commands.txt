@@ -1,0 +1,13 @@
+*command for chk git version
+    
+    >git version
+
+*command for listing config detail
+
+    >git config --list
+
+*command for adding user email
+
+    >git config --globla user.email "example@gmail.com"
+
+    
