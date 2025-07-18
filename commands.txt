@@ -26,5 +26,12 @@
 
     >git status
 
+*command for adding remote
+    >git remote add name remote_path
+
+>command for push
+
+    >git push name branch_name
+
 
 
